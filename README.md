@@ -18,7 +18,7 @@ JDK读书笔记
 根据以上两本文将可将JDK主要分为
 
 |内容|描述|
-|-:|-:|
+|:-|:-|
 |hotspot|搭建JDK热启动虚拟机|
 |langtools|jdk的javac入口和java语言工具|
 |jdk|jdk的编译文件用于构建OpenJDK运行库以及misc文件|
