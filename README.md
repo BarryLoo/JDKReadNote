@@ -37,5 +37,5 @@ JDK读书笔记
 由于需要看代码实现以及调用过程。读取代码的开发工具需要支持C/CPP、Java和Git。以及对C/CPP的编译支持能力。
 
 * Visual Studio Code（配合C/C++ Extension、Java Extension、Git Extension）
-* 系统安装[CygWin](https://www.cygwin.com/)（全包安装）、[Msys](https://www.msys2.org/)（需要安装）、[mingw-w64](http://mingw-w64.org/doku.php/start)
-
+* 系统安装[Msys](https://www.msys2.org/)（需要安装）
+* msys2的基础上安装gcc和gdb，便于代码进行关联跳转
